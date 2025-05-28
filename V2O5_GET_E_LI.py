@@ -84,3 +84,4 @@ slab[168].position += [0.15,0.18,0.73]
 slab.rattle(0.01)
 print('energy:', slab.get_potential_energy())
 print(slab.get_positions())
+print("Joshua knows DFT, I guess")
